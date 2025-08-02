@@ -29,7 +29,7 @@
   <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/64/gmail--v1.png" width="64"/></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/64/linkedin.png" width="64"/></a>
   <a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/color/64/twitter--v1.png" width="64"/></a>
-  <a href="https://medium.com/@mohdafzal909634"><img src="https://img.icons8.com/color/64/medium-logo.png" width="64"/></a>
+  <a href="https://medium.com/@Mohammad-Afzal786"><img src="https://img.icons8.com/color/64/medium-logo.png" width="64"/></a>
 </p>
 
 ---
