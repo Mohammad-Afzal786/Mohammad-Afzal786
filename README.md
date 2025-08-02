@@ -3,7 +3,7 @@
 
 - 🌱 I’m a Flutter developer building beautiful, fast, and user-friendly mobile apps  
 - 🚀 I love solving problems with clean code and modern design  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **mohdafzal909634@gmail.com**  
 - 🔭 Hire me on [Upwork](https://www.upwork.com/)  
 
 ---
